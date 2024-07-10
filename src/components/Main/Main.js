@@ -31,7 +31,7 @@ function Main() {
     </nav>
     <Outlet className="outlet"/>
     <footer>
-        <p>22071A0544@Copyright</p>
+        <p>22071A0535@Copyright</p>
     </footer>
     </div>
   )
